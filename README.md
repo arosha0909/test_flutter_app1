@@ -19,12 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Responsive UI
 
-![stack Overflow](https://drive.google.com/file/d/1Rs4wopfGkgKGtJ9fIIC8xnm3RsoATHN-/view?usp=sharing)
+![Mobile Size UI](https://drive.google.com/file/d/1Rs4wopfGkgKGtJ9fIIC8xnm3RsoATHN-/view?usp=sharing)
 
-![stack Overflow](https://drive.google.com/file/d/1nnfSqG0ZkY7-6tb_OI29r-ZZJ8yiWVrh/view?usp=sharing)
+![Mobile Size UI with menu](https://drive.google.com/file/d/1nnfSqG0ZkY7-6tb_OI29r-ZZJ8yiWVrh/view?usp=sharing)
 
-![stack Overflow](https://drive.google.com/file/d/12Py7LX61knAa6YAFw1z4QNy9UYTrZlWL/view?usp=sharing)
+![Tablet UI with menu](https://drive.google.com/file/d/12Py7LX61knAa6YAFw1z4QNy9UYTrZlWL/view?usp=sharing)
 
-![stack Overflow](https://drive.google.com/file/d/1HdSgEY8VzrfqWbCRX8BpyX5TFFiJh3Mc/view?usp=sharing)
+![Tablet UI](https://drive.google.com/file/d/1HdSgEY8VzrfqWbCRX8BpyX5TFFiJh3Mc/view?usp=sharing)
 
-![stack Overflow](https://drive.google.com/file/d/1RxQ51JPzIBQtR44lZYCs1qxEoviqDoqm/view?usp=sharing)
+![Dekstop UI](https://drive.google.com/file/d/1RxQ51JPzIBQtR44lZYCs1qxEoviqDoqm/view?usp=sharing)
