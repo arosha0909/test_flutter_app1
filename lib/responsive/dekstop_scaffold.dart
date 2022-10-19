@@ -14,7 +14,7 @@ class _DekstopScaffoldState extends State<DekstopScaffold> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: myAppBar,
+      // appBar: myAppBar,
       backgroundColor: defaultBackground,
       body: Row(
         children: [
